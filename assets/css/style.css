@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+}
+
+.jumbotron {
+    background-color: darkcyan;
+    color: white;
+    font-weight: bolder;
+}
+
+label {
+    color: white;
+    font-weight: bolder;
+}
+
+.card {
+    background-color: darkcyan;
+}
+
+.card-title {
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+}
+
+th {
+    font-weight: bolder;
+}
+
+td {
+    font-weight: bold;
+    color: white;
+}
